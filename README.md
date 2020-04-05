@@ -6,4 +6,4 @@ A simple Visual Basic Script to move all the beautiful lockscreen pictures in wi
 
 You can set your desktop background as slideshow of images from the custom folder.😉
 
-PS : Paste this file in startup folder,so it runs automatically everytime you login.
+PS : Paste this file in startup folder,so it runs automatically everytime you login!!
