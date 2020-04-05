@@ -1,8 +1,3 @@
-'Copies Spotlight images from Assets folder to "Pictures\Spotlight Collections"
-'Picks up only the Landscape images, and having size >250KB.
-'Filename: spotlight_collect.vbs © Ramesh Srinivasan - winhelponline.com
-'For Windows 10 systems.
-'Feel free to modify the script as you need.
 
 Option Explicit
 Dim objFSO : Set objFSO = CreateObject("Scripting.FileSystemObject")
